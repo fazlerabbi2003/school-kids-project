@@ -21,6 +21,11 @@
     color: orange;
     
 }
+.section{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    
+}
 .text-skyblue{
     color: skyblue;
 }
